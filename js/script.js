@@ -1,4 +1,4 @@
-const text = "Welcome to team GMGs!! <3 ";
+const text = "Welcome to GMGs team!! <3 ";
 
 
 
